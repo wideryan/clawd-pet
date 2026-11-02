@@ -1,0 +1,6 @@
+{
+  "name": "clawd-pet",
+  "version": "0.1.0",
+  "description": "Clawd sits above the prompt: click it, and it plays a Clawd 400 animation that fits what the conversation is doing.",
+  "types": "./types/index.d.ts"
+}
